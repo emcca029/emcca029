@@ -53,7 +53,7 @@ Most of my time on campus has been spent becoming a Computer Engineer and double
 
 ### Latest Projects
 
-
+- A guide to help you run your PEMFC fuel cell models in docker containers in WSL2 on Windows 10 using Ubuntu 20.04 LTS as a Linux distribution and VcXsrv windows X server to run PEMFC fuel cell models in a graphical display.
 
 
 <!-- blog end -->

@@ -39,6 +39,9 @@ class Developer : virtual Foo {
     {
       string machine_learning;
       string artificial_intelligence;
+      string fuel_cell_ai;
+      string predictive_maintenance;
+      string autonomous_vehicles;
     } tech;
 }; // end class Developer
 

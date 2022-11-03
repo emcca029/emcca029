@@ -28,11 +28,11 @@ class Developer : virtual Foo {
         const string preferred = "C++";
         const char* programming_languages[] 
         {
-          "C", "C++", "Java", "Python"
+          "c", "c++", "java", "python"
         };
         const char* developer_tools [] =
         {
-          "Bash", "Ultimate Vim", "Tmux"
+          "bash", "ultimate-vim", "tmux"
         };
     } prefs;
     struct technology
